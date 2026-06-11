@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kiahrawle.github.io/JapanDesignguidebook/sitemap.xml
